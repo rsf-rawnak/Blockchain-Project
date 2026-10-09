@@ -2,7 +2,7 @@
 
 **Course:** CSE 433, Blockchain & Distributed Security Lab
 **University:** University of Asia Pacific (UAP), Department of CSE
-**Student:** Râwn
+**Student:** MD Rawnak Shalahen Fahim
 **ID:** 22201063
 **Section:** C1
 
